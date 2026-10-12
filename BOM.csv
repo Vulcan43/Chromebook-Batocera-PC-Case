@@ -1,5 +1,5 @@
-Item,Quantity,Cost,Supplier,Description
-3d Prints,1,30,3D printer,Case
+Item,Quantity,Cost,Supplier,Description,Links
+3d Prints,1,30,3D printer,Case,(Link)[Google.com]
 Thermal Paste,1,5,AliExpress,Helps with heat moving to heatsink and cpu
 Fans,1,8,AliExpress,Airflow in case
 LEDs,1,4,AliExpress,Makes the design more finished and look better
