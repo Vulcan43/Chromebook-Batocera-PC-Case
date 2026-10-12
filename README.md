@@ -9,13 +9,16 @@ A few months ago I made a Batocera gaming pc with a hp 14 G5 chromebook with a b
 
 # BOM
 
-Item,Quantity,Cost,Supplier,Description,Links
-3D Prints,1,30,3D printer,Case,3D printer
-Thermal Paste,1,6,AliExpress,Helps with heat moving to heatsink and cpu,https://www.aliexpress.us/item/3256812646509079.html
-Fans,1,2,AliExpress,Airflow in case,https://www.aliexpress.us/item/3256812571744171.html
-LEDs,1,4,AliExpress,Makes the design more finished and look better,https://www.aliexpress.us/item/3256809217612226.html
-USB Cables,2,3,AliExpress,For fans,https://www.aliexpress.us/item/2255800958699424.html
-Total,,48,,,
+
+| Item | Quantity | Cost | Supplier | Description | Links |
+| :--- | :---: | :---: | :--- | :--- | :--- |
+| 3D Prints | 1 | 30 | 3D printer | Case | |
+| Thermal Paste | 1 | 6 | AliExpress | Helps with heat moving to heatsink and cpu | [Link](https://aliexpress.us) |
+| Fans | 1 | 2 | AliExpress | Airflow in case | [Link](https://aliexpress.us) |
+| LEDs | 1 | 4 | AliExpress | Makes the design more finished and look better | [Link](https://aliexpress.us) |
+| USB Cables | 2 | 3 | AliExpress | For fans | [Link](https://aliexpress.us) |
+| **Total** | | **48** | | | |
+
 
 # PC-Case
 This is  a case for my HP 14 G5 AMD motherboard I made it into a Batocera gaming laptop because it got very slow and it was a Chromebook. I also made a heatsink for it.
