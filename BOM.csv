@@ -1,6 +1,7 @@
 Item,Quantity,Cost,Supplier,Description,Links
-3d Prints,1,30,3D printer,Case,"[link](https://github.com)"
-Thermal Paste,1,5,AliExpress,Helps with heat moving to heatsink and cpu,l
-Fans,1,8,AliExpress,Airflow in case,l
-LEDs,1,4,AliExpress,Makes the design more finished and look better,l
-USB Cables,2,4,AliExpress,For fans,l
+3d Prints,1,30,3D printer,Case,3D printer
+Thermal Paste,1,5,AliExpress,Helps with heat moving to heatsink and cpu,"<a href=""https://aliexpress.us"">link</a>"
+Fans,1,8,AliExpress,Airflow in case,"<a href=""https://aliexpress.us"">link</a>"
+LEDs,1,4,AliExpress,Makes the design more finished and look better,"<a href=""https://aliexpress.us"">link</a>"
+USB Cables,2,4,AliExpress,For fans,"<a href=""https://aliexpress.us"">link</a>"
+
