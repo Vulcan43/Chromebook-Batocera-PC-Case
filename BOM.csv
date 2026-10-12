@@ -1,0 +1,7 @@
+Item,Quantity,Cost,Supplier,Description,Links
+3D Prints,1,30,3D printer,Case,3D printer
+Thermal Paste,1,6,AliExpress,Helps with heat moving to heatsink and cpu,https://www.aliexpress.us/item/3256812646509079.html
+Fans,1,2,AliExpress,Airflow in case,https://www.aliexpress.us/item/3256812571744171.html
+LEDs,1,4,AliExpress,Makes the design more finished and look better,https://www.aliexpress.us/item/3256809217612226.html
+USB Cables,2,3,AliExpress,For fans,https://www.aliexpress.us/item/2255800958699424.html
+Total,,48,,,
