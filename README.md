@@ -1,18 +1,11 @@
-<img width="881" height="500" alt="image" src="https://github.com/user-attachments/assets/b350158f-e415-4488-8d74-590daa2fc1c1" />
 
+A few months ago I made a Batocera gaming pc with a hp 14 G5 chromebook with a broken screen. I used mr chromebox chrome to linux conversion and now I have it hooked up to my tv but the issue is it is in a rikedy foam case with no fans or stanoffs. So often times the cpu hits 80 degrees celcus. So I made this case.
 
+# For the fans
+<img width="791" height="588" alt="image" src="https://github.com/user-attachments/assets/6625b683-b36d-426d-85a7-afa28210bca6" />
 
-
-# How to order Heatsink
-
-The cheapest I found was PCBway fell free to use a cheaper option if you can find one.
-
-1. Get the .step file in hear that says heatsink
-2. Go to pcbway go to cnc milled and add the .step
-3. Get it machine milled in aluminum
-4. No surfus finish
-5. Order 
-
+# For the LED
+<img width="1026" height="581" alt="image" src="https://github.com/user-attachments/assets/97b4127b-b89f-4316-a714-518ee131930e" />
 
 # BOM
 
@@ -23,7 +16,6 @@ The cheapest I found was PCBway fell free to use a cheaper option if you can fin
 | **Fans** | 1 | 8 | AliExpress | Airflow in case |
 | **LEDs** | 1 | 4 | AliExpress | Makes the design more finished and look better |
 | **USB Cables** | 2 | 4 | AliExpress | For fans |
-
 
 # PC-Case
 This is  a case for my HP 14 G5 AMD motherboard I made it into a Batocera gaming laptop because it got very slow and it was a Chromebook. I also made a heatsink for it.
