@@ -3,4 +3,5 @@ Item,Quantity,Cost,Supplier,Description,Links
 Fans,1,2,AliExpress,Airflow in case,https://www.aliexpress.us/item/3256812571744171.html
 LEDs,1,4,AliExpress,Makes the design more finished and look better,https://www.aliexpress.us/item/3256809217612226.html
 USB Cables,2,3,AliExpress,For fans,https://www.aliexpress.us/item/2255800958699424.html
-Total,,39,,,
+Tax and infation,,6,,,
+Total,,45,,,
