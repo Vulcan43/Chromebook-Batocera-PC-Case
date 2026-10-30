@@ -16,8 +16,9 @@ A few months ago I made a Batocera gaming pc with a hp 14 G5 chromebook with a b
 | Fans | 1 | 2 | AliExpress | Airflow in case | [Link](https://www.aliexpress.us/item/3256812571744171.html) |
 | LEDs | 1 | 4 | AliExpress | Makes the design more finished and look better | [Link](https://www.aliexpress.us/item/3256809217612226.html) |
 | USB Cables | 2 | 3 | AliExpress | For fans | [Link](https://www.aliexpress.us/item/2255800958699424.html) |
-| **Total** | | **39** | | | |
+| **Total** | | **45** | | | |
 
+I added more for tax and shipping and inflation
 
 # PC-Case
 This is  a case for my HP 14 G5 AMD motherboard I made it into a Batocera gaming laptop because it got very slow and it was a Chromebook. I also made a heatsink for it.
