@@ -1,6 +1,9 @@
 
 A few months ago I made a Batocera gaming pc with a hp 14 G5 chromebook with a broken screen. I used mr chromebox chrome to linux conversion and now I have it hooked up to my tv but the issue is it is in a rikedy foam case with no fans or stanoffs. So often times the cpu hits 80 degrees celcus. So I made this case.
 
+# How this will go together
+First is the led's have built in USB that will plug into the laptop mother board that will go into the case. Sadly I can not find or make a 1 to 1 of the laptop mother board due to me not having the skill to do that. Then i will cut the USB cables and solder there wires to both the fans so then the fans will run off the usb power from the laptop motherboard. You can see the fan wiring below. After that everything goes into the case if you would like to see full assembly and LED and FAN assembly go the the assembly folder if you would like to see the source files to to thinker cad file and if you would like to 3d print the case go to 3D printing files
+
 # For the fans
 <img width="791" height="588" alt="image" src="https://github.com/user-attachments/assets/6625b683-b36d-426d-85a7-afa28210bca6" />
 
